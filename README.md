@@ -11,10 +11,11 @@ I'm a **Bachelor of Science student from India** with a passion for **DevOps Eng
 - **Tools:** Git, CI/CD, VS Code
 
 ## 🔥 Projects
+- **Hyper Local Weather App:**[https://github.com/smd-almas/Hyper_Local_Weather_App]
 - **Leaf Disease Identification Web Application:** [smd-almas/Leaf-Disease-Identification-Web-Application](https://github.com/smd-almas/Leaf-Disease-Identification-Web-Application)
 - **My Profile Using Nginx and Kubernetes:** [smd-almas/My-Profile-Using-Nginx-and-Kubernetes](https://github.com/smd-almas/My-Profile-Using-Nginx-and-Kubernetes)
 - **Indian Recipe Web App Using Kind and Helm:** [smd-almas/Indian-Recipe-Web-App-Using-Kind-and-Helm](https://github.com/smd-almas/Indian-Recipe-Web-App-Using-Kind-and-Helm)
-- **Hyper Local Weather App:**.[https://github.com/smd-almas/Hyper_Local_Weather_App]
+  
 
 ## 📫 Let's Connect!
 - **GitHub:** [https://github.com/smd-almas]
