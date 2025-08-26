@@ -5,7 +5,7 @@ I'm a **Bachelor of Science student from India** with a passion for **DevOps Eng
 
 ## 🛠 Skills & Technologies
 - **DevOps & Cloud:** Docker, Kubernetes, Helm, Ansible, AWS
-- **Programming:** C, Python, java, Bash, YAML
+- **Programming:** Go, Python, Bash, YAML
 - **Monitoring:** Prometheus, Grafana
 - **Web Development:** HTML, CSS, JavaScript, React
 - **Tools:** Git, CI/CD, VS Code
