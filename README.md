@@ -4,8 +4,8 @@
 I'm a **Bachelor of Science student from India** with a passion for **Computer Science Engineering** and modern technologies.
 
 ## 🛠 Skills & Technologies
-- **DevOps & Cloud:** Docker, Kubernetes, Helm, Ansible, AWS
-- **Programming:** Go, Python, Bash, YAML
+- **DevOps & Cloud:** Docker, Kubernetes, Helm, AWS
+- **Programming:** Go, Laravel, PHP, Python, Bash, YAML
 - **Monitoring:** Prometheus, Grafana
 - **Web Development:** HTML, CSS, JavaScript, React
 - **Tools:** Git, CI/CD, VS Code
